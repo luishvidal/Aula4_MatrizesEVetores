@@ -1,0 +1,13 @@
+C:\Users\luisv\Documents\EstudosCSharp\Aula4_MatrizeseVetores\Aula4_MatrizeseVetores\bin\Debug\netcoreapp3.1\Aula4_MatrizeseVetores.exe
+C:\Users\luisv\Documents\EstudosCSharp\Aula4_MatrizeseVetores\Aula4_MatrizeseVetores\bin\Debug\netcoreapp3.1\Aula4_MatrizeseVetores.deps.json
+C:\Users\luisv\Documents\EstudosCSharp\Aula4_MatrizeseVetores\Aula4_MatrizeseVetores\bin\Debug\netcoreapp3.1\Aula4_MatrizeseVetores.runtimeconfig.json
+C:\Users\luisv\Documents\EstudosCSharp\Aula4_MatrizeseVetores\Aula4_MatrizeseVetores\bin\Debug\netcoreapp3.1\Aula4_MatrizeseVetores.runtimeconfig.dev.json
+C:\Users\luisv\Documents\EstudosCSharp\Aula4_MatrizeseVetores\Aula4_MatrizeseVetores\bin\Debug\netcoreapp3.1\Aula4_MatrizeseVetores.dll
+C:\Users\luisv\Documents\EstudosCSharp\Aula4_MatrizeseVetores\Aula4_MatrizeseVetores\bin\Debug\netcoreapp3.1\Aula4_MatrizeseVetores.pdb
+C:\Users\luisv\Documents\EstudosCSharp\Aula4_MatrizeseVetores\Aula4_MatrizeseVetores\obj\Debug\netcoreapp3.1\Aula4_MatrizeseVetores.AssemblyInfoInputs.cache
+C:\Users\luisv\Documents\EstudosCSharp\Aula4_MatrizeseVetores\Aula4_MatrizeseVetores\obj\Debug\netcoreapp3.1\Aula4_MatrizeseVetores.AssemblyInfo.cs
+C:\Users\luisv\Documents\EstudosCSharp\Aula4_MatrizeseVetores\Aula4_MatrizeseVetores\obj\Debug\netcoreapp3.1\Aula4_MatrizeseVetores.csproj.CoreCompileInputs.cache
+C:\Users\luisv\Documents\EstudosCSharp\Aula4_MatrizeseVetores\Aula4_MatrizeseVetores\obj\Debug\netcoreapp3.1\Aula4_MatrizeseVetores.dll
+C:\Users\luisv\Documents\EstudosCSharp\Aula4_MatrizeseVetores\Aula4_MatrizeseVetores\obj\Debug\netcoreapp3.1\Aula4_MatrizeseVetores.pdb
+C:\Users\luisv\Documents\EstudosCSharp\Aula4_MatrizeseVetores\Aula4_MatrizeseVetores\obj\Debug\netcoreapp3.1\Aula4_MatrizeseVetores.genruntimeconfig.cache
+C:\Users\luisv\Documents\EstudosCSharp\Aula4_MatrizeseVetores\Aula4_MatrizeseVetores\obj\Debug\netcoreapp3.1\Aula4_MatrizeseVetores.csprojAssemblyReference.cache
